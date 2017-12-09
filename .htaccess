@@ -1,0 +1,4 @@
+# 1--- Establish a custom 404 file not found
+ErrorDocument 404 /social/filenotfound.php
+# 2 ----Prevent Directory file listing in all your folders
+IndexIgnore *
