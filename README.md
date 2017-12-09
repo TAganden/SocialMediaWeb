@@ -4,4 +4,4 @@ You need to have an apache server running and the databse established with the t
 
 NOTE:
 In the upload image part do not upload very large images. The design does not support large files.
-Also the image preview is not enabled hence once you browse and select a picture, you need to click upload to see the image you have created.
+Also the image preview is not enabled hence once you browse and select a picture, you need to click upload to see the image you have chosen.
